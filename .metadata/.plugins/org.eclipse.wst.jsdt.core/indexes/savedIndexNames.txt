@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\sts_lyr\sts4_trip0\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+849768077.index
+1018128314.index
+2789284458.index
+3475883561.index
+2376739864.index
+1055580214.index

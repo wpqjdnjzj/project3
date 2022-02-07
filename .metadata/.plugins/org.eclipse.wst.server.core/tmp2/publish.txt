@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Mon Feb 07 20:26:35 KST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\.m2\\repository\\org\\springframework\\spring-web\\5.0.7.RELEASE\\spring-web-5.0.7.RELEASE.jar=WEB-INF/lib/spring-web-5.0.7.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\sts_lyr\\sts4_trip0\\web03\\src\\main\\webapp\\WEB-INF\\lib\\tomcat-websocket.jar=WEB-INF/lib/tomcat-websocket.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\sts_lyr\\sts4_trip0\\web03\\src\\main\\webapp\\WEB-INF\\lib\\jasper.jar=WEB-INF/lib/jasper.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\sts_lyr\\sts4_trip0\\web03\\src\\main\\webapp\\WEB-INF\\lib\\jasper-el.jar=WEB-INF/lib/jasper-el.jar

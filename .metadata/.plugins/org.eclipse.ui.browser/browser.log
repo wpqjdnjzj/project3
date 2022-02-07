@@ -1,0 +1,40 @@
+
+1월 20, 2022 10:25:09.41 NEW SESSION
+1월 20, 2022 10:25:09.41 [6824:16340:0120/102509.405:ERROR:data_pack.cc(126)] Could not open pak file for writing: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (0x20)
+1월 20, 2022 10:25:11.56 [6824:2140:0120/102511.566:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 20, 2022 10:25:11.56 [6824:2140:0120/102511.566:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 20, 2022 10:25:11.56 [6824:2140:0120/102511.566:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 20, 2022 10:25:11.56 [6824:2140:0120/102511.568:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 20, 2022 10:25:11.59 [6824:10540:0120/102511.592:ERROR:device_event_log_impl.cc(214)] [10:25:11.593] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 20, 2022 10:34:09.17 [15284:13008:0120/103409.171:ERROR:data_pack.cc(126)] Could not open pak file for writing: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (0x20)
+1월 20, 2022 10:34:12.30 [15284:20336:0120/103412.301:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 20, 2022 10:34:12.30 [15284:20336:0120/103412.301:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 20, 2022 10:34:12.30 [15284:20336:0120/103412.301:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 20, 2022 10:34:12.30 [15284:20336:0120/103412.303:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 20, 2022 10:34:12.31 [15284:14732:0120/103412.317:ERROR:device_event_log_impl.cc(214)] [10:34:12.317] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 20, 2022 10:43:32.55 [15740:4448:0120/104332.553:ERROR:data_pack.cc(126)] Could not open pak file for writing: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (0x20)
+1월 20, 2022 10:43:34.70 [15740:11904:0120/104334.705:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 20, 2022 10:43:34.70 [15740:11904:0120/104334.705:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 20, 2022 10:43:34.70 [15740:11904:0120/104334.705:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 20, 2022 10:43:34.70 [15740:11904:0120/104334.708:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 20, 2022 10:43:34.72 [15740:19268:0120/104334.723:ERROR:device_event_log_impl.cc(214)] [10:43:34.723] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 20, 2022 10:46:38.12 [7156:18952:0120/104638.125:ERROR:data_pack.cc(126)] Could not open pak file for writing: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (0x20)
+1월 20, 2022 10:46:40.23 [7156:18836:0120/104640.239:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 20, 2022 10:46:40.24 [7156:18836:0120/104640.239:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 20, 2022 10:46:40.24 [7156:18836:0120/104640.239:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 20, 2022 10:46:40.24 [7156:18836:0120/104640.241:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 20, 2022 10:46:40.25 [7156:8656:0120/104640.253:ERROR:device_event_log_impl.cc(214)] [10:46:40.253] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+1월 28, 2022 17:12:53.81 NEW SESSION
+1월 28, 2022 17:12:53.81 [17036:7420:0128/171253.805:ERROR:data_pack.cc(126)] Could not open pak file for writing: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (0x20)
+1월 28, 2022 17:12:56.97 [17036:6148:0128/171256.973:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 17:12:56.97 [17036:6148:0128/171256.973:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 28, 2022 17:12:56.97 [17036:6148:0128/171256.973:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 17:12:56.97 [17036:6148:0128/171256.975:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 28, 2022 17:12:56.98 [17036:7836:0128/171256.989:ERROR:device_event_log_impl.cc(214)] [17:12:56.989] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+1월 28, 2022 17:21:59.87 [13880:14032:0128/172159.873:ERROR:data_pack.cc(126)] Could not open pak file for writing: 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다. (0x20)
+1월 28, 2022 17:22:02.91 [13880:14852:0128/172202.917:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 17:22:02.91 [13880:14852:0128/172202.917:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+1월 28, 2022 17:22:02.91 [13880:14852:0128/172202.917:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+1월 28, 2022 17:22:02.92 [13880:14852:0128/172202.921:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+1월 28, 2022 17:22:02.93 [13880:2436:0128/172202.935:ERROR:device_event_log_impl.cc(214)] [17:22:02.935] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.

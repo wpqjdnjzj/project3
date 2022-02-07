@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+D:\lyr\sts_project4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\871043994.index
+\web03\src\main\java
+D:\sts_lyr\sts4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\943085931.index
+\web03\src\main\java
+D:\lyr\sts_project4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1045865263.index
+\web03\src\main\java
+D:\sts_lyr\sts4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1055580214.index
+\web03\src\main\java
+D:\sts_lyr\sts4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\871043994.index
+\web03\src\main\java
+D:\sts_lyr\sts4_trip0\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1055580214.index
+\web03\src\main\java
+D:\sts_lyr\sts4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1045865263.index
+\web03\src\main\java
+D:\lyr\sts_project4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\943085931.index
+\web03\src\main\java
+D:\sts_lyr\sts4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1375146219.index
+\web03\src\main\java
+D:\lyr\sts_project4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1055580214.index
+\web03\src\main\java
+D:\lyr\sts_project4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1375146219.index
+\web03\src\main\java
